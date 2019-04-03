@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "pdfjs-dist-lmb",
   "version": "2.1.266",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
@@ -28,6 +28,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/pdfjs-dist"
+    "url": "https://github.com/velimirj/pdfjs-dist"
   }
 }
